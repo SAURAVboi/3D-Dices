@@ -1,0 +1,22 @@
+Copyright (c) Codemun.
+All Rights Reserved.
+
+This project was created and developed by Codemun.  
+All source code, designs, and related files are the property of the creator.
+
+You are allowed to use, modify, and customize this code for your own personal  
+or commercial projects. No royalties or payments are required for usage.
+
+However, redistribution of the original project as your own, reselling the source,  
+or claiming authorship without permission is strictly prohibited.
+
+The code may be adapted or integrated into your own work freely, but the  
+original ownership remains with Codemun.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY OF ANY KIND,  
+EXPRESS OR IMPLIED. CODEMUN IS NOT RESPONSIBLE FOR ANY DAMAGES OR  
+LOSSES RESULTING FROM THE USE OF THIS SOFTWARE.
+
+For permissions, support, or licensing questions, contact:
+
+
